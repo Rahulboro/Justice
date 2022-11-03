@@ -1,1 +1,15 @@
-##Your justice is our top priority
+
+## Justice webpage
+
+I have made this website using html and css. Time taken 5 hours to build.
+
+## Screenshots
+
+![App Screenshot](Screenshot%202022-11-03%20at%2023.19.58.jpg)
+
+
+## Technology used
+
+- HTML  
+- CSS
+
